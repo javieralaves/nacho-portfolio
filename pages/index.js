@@ -19,7 +19,7 @@ export default function Home() {
         <div className={styles.grid}>
           <a href="https://nextjs.org/docs" className={styles.card}>
             <h2>About me &rarr;</h2>
-            <p>I'm a cool guy based in Campello, Alicante.</p>
+            <p>I am a cool guy based in Campello, Alicante.</p>
           </a>
 
           <a href="https://nextjs.org/learn" className={styles.card}>
@@ -41,7 +41,7 @@ export default function Home() {
           >
             <h2>Contact me &rarr;</h2>
             <p>
-              I'm available for part-time freelancing.
+              I am available for part-time freelancing.
             </p>
           </a>
         </div>
